@@ -1,0 +1,58 @@
+body{
+background-image: url(z.jpg);
+background-size: cover;
+background-attachment: fixed;
+	background-position: center;}
+header{
+	text-align: center;
+	color: blue;
+font-family: cursive;}
+	a{
+	padding-left: 130px;
+color: black;
+font-family: cursive;
+}
+h2{text-align: center;
+font-family:cursive;
+color: green;
+}
+h4{ text-align: center;
+color:red; }
+h3{
+text-align: center;
+color: purple;
+font-family: sans-serif;
+}
+img{
+	padding: 10px;}
+th,tr,td{
+border:  solid orange;
+padding-left: 400px;
+}
+ul{color: blue;
+text-align: center;
+font-family: cursive;
+}
+input[type=Number]{
+width: 100%;
+padding-left: 12px;
+border: solid orange;
+margin-bottom: 16px;
+resize: vertical;
+}
+input[type=text],textarea{
+width: 100%;
+padding-left: 12px;
+border: solid orange;
+margin-bottom: 16px;
+resize: vertical;
+}
+input[type=submit]{
+width: 100%;
+padding-left: 12px;
+border: solid orange;
+margin-bottom: 25px;
+resize: vertical;
+color: blue
+}
+
